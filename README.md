@@ -7,4 +7,4 @@
 	username: //您数据库的用户名
       	password: //您数据库的密码
 3.运行 DemoApplication 启动服务器
-4.http://localhost/pages/login.html打开网址
+4.http://localhost/pages/login.html 打开网址
